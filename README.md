@@ -19,15 +19,6 @@ Esta aplicación funcionará como un sistema para optimizar las atenciones de lo
 1. **Inicio de sesión:** Los usuarios pueden iniciar sesión en la aplicación.
 2. **Registro de usuario:** Los usuarios pueden registrarse en la aplicación.
 
-
-## Primera versión realizada en nocobase
-
-<div align="center">
-
-https://gransalud-funcionarios.up.railway.app/
-
-</div>
-
 [js-badge-sm]: https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat
 [js-web]: https://developer.mozilla.org/es/docs/Web/JavaScript
 [ts-badge-sm]: https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat
