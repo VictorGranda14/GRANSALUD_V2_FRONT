@@ -74,5 +74,5 @@ Esta aplicación funcionará como un sistema para optimizar las atenciones de lo
 [ios-development-web]: https://developer.apple.com/ios/
 [android-development-badge-sm]: https://img.shields.io/badge/Android_Development-3DDC84?logo=android&logoColor=fff&style=flat
 [android-development-web]: https://developer.android.com/
-[strapi-development-badge-sm]: https://img.shields.io/badge/:badgeContent?style=flat&logo=strapi&logoColor=fff
+[strapi-development-badge-sm]: https://img.shields.io/badge/strapi-badge?style=flat&logo=strapi&logoColor=fff&color=%234945FF
 [strapi-development-web]: https://docs.strapi.io/dev-docs/intro
