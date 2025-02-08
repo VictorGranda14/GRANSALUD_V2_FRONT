@@ -20,7 +20,7 @@ Esta aplicación funcionará como un sistema para optimizar las atenciones de lo
 2. **Registro de usuario:** Los usuarios pueden registrarse en la aplicación.
 
 
-## Prototipo
+## Primera versión realizada en nocobase
 
 <div align="center">
 
