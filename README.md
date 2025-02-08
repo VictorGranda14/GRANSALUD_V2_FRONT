@@ -24,7 +24,7 @@ Esta aplicación funcionará como un sistema para optimizar las atenciones de lo
 
 <div align="center">
 
-[![figma-prot-badge]][figma-prot-url] [![figma-dis-badge]][figma-dis-url]
+https://gransalud-funcionarios.up.railway.app/
 
 </div>
 
