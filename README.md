@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![angular-badge-sm]][angular-web] [![express-badge-sm]][express-web] [![figma-badge-sm]][figma-web] [![git-badge-sm]][git-web] [![github-badge-sm]][github-web] [![html5-badge-sm]][html5-web] [![ionic-badge-sm]][ionic-web] [![js-badge-sm]][js-web] [![nodejs-badge-sm]][nodejs-web] [![npm-badge-sm]][npm-web] [![prettier-badge-sm]][prettier-web] [![ts-badge-sm]][ts-web] [![vscode-badge-sm]][vscode-web] [![yarn-badge-sm]][yarn-web] [![strapi-development-badge-sm]][strapi-development-web]
+[![angular-badge-sm]][angular-web] [![figma-badge-sm]][figma-web] [![git-badge-sm]][git-web] [![github-badge-sm]][github-web] [![html5-badge-sm]][html5-web] [![js-badge-sm]][js-web] [![nodejs-badge-sm]][nodejs-web] [![npm-badge-sm]][npm-web] [![prettier-badge-sm]][prettier-web] [![ts-badge-sm]][ts-web] [![vscode-badge-sm]][vscode-web] [![yarn-badge-sm]][yarn-web] [![strapi-development-badge-sm]][strapi-development-web]
 
 
 </div>
